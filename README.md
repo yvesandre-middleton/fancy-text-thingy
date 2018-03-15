@@ -1,7 +1,12 @@
-add babel and prepublish
+1. npm i babel and run in cli: npm run prepublish
 
-npm install fancy-text-thing
+2. npm install fancy-text-thing
+
+First import:
 
 import fancyTextThing from 'fancy-text-thing'
 
-use <fancy-text-thing /> in React
+Then use it in React:
+
+<fancyTextThing />
+
